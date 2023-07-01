@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232726369416",
+    "firebase_url": "https://gift-erbil.firebaseio.com",
+    "project_id": "gift-erbil",
+    "storage_bucket": "gift-erbil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232726369416:android:bb2a2af4f4417d725dbb3d",
+        "android_client_info": {
+          "package_name": "com.creativeTech.Gift_Erbil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232726369416-ak6ijjlq7srbscnmbugkdfn2i2ihg4kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZaaoQoOmyw_BuQdfK2A2HKg-MHy0c3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232726369416-ak6ijjlq7srbscnmbugkdfn2i2ihg4kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
